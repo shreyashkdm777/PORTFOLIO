@@ -33,7 +33,7 @@ const WHY = ["Full Stack Developer", "React Developer", "Clean & Readable Code",
 
 const PROJECTS = [
   { title: "E-BookStore – Online Book Reading Website", text: "Responsive Online Book Reading Website featuring a modern navigation bar, an attractive hero section, interactive book cards, book categories, a shopping cart, and a well-designed footer.", tags: ["HTML", "CSS", "JavaScript"], live: "https://onlinee-bookstore.netlify.app", image:"/ebookweb.png" },
-  { title: "Bite Box – Food Ordering Website", text: "Responsive food-ordering website with navigation, food cards, hero section, categories, cart and footer, built with Flexbox, Grid and media queries.", tags: ["HTML", "CSS", "JavaScript"], live: null, image: "/bitebox.jpg" },
+  { title: "Bite Box – Food Ordering Website", text: "Responsive food-ordering website with navigation, food cards, hero section, categories, cart and footer, built with Flexbox, Grid and media queries.", tags: ["HTML", "CSS", "JavaScript"], live: "https://biteboxfood.netlify.app/", image: "/bitebox.jpg" },
   { title: "Sukoonn Villa – Villa Booking Website", text: "Responsive villa booking website with cards, image hover effects, navigation menus and a category section, optimized for mobile.", tags: ["HTML", "CSS", "JavaScript"], live: "https://sukoonnvilla.netlify.app/", image: "/sukoonn.png" },
 ];
 
